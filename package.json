@@ -1,0 +1,17 @@
+{
+  "name": "data-uri-to-ndarray",
+  "author": "jden <jason@denizac.org>",
+  "version": "0.1.0",
+  "description": "decode an image into an ndarray",
+  "keywords": ["data", "images", "ndarray"],
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": "git@github.com:jden/node-data-uri-to-ndarray.git",
+  "license": "ISC",
+  "readmeFilename": "README.md",
+  "devDependencies": {
+    "mochi": "0.1.0"
+  }
+}
