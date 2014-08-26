@@ -3,7 +3,11 @@
   "author": "jden <jason@denizac.org>",
   "version": "0.1.0",
   "description": "decode an image into an ndarray",
-  "keywords": ["data", "images", "ndarray"],
+  "keywords": [
+    "data",
+    "images",
+    "ndarray"
+  ],
   "main": "index.js",
   "scripts": {
     "test": "mocha"
@@ -13,5 +17,12 @@
   "readmeFilename": "README.md",
   "devDependencies": {
     "mochi": "0.1.0"
+  },
+  "dependencies": {
+    "ndarray": "^1.0.15",
+    "parse-data-uri": "^0.1.0",
+    "omggif": "^1.0.5",
+    "jpeg-js": "0.0.4",
+    "pngparse": "^2.0.1"
   }
 }
