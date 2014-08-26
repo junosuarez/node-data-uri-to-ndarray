@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "ndarray": "^1.0.15",
-    "parse-data-uri": "^0.1.0",
+    "parse-data-uri": "^0.2.0",
     "omggif": "^1.0.5",
     "jpeg-js": "0.0.4",
     "pngparse": "^2.0.1"
